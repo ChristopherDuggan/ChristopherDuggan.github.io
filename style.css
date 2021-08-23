@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+main {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
